@@ -1,0 +1,6 @@
+# Ignore personal task logs and backups
+task_log*.txt
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
