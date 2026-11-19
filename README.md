@@ -2,6 +2,8 @@
 
 A lightweight, single-window desktop task timer and timesheet logger built for Debian Linux using Python and Tkinter.
 
+![Focus & Task Timer Screenshot](screenshot.png)
+
 ## Features
 * **Task Timer:** Start, pause, resume, and stop tasks with immediate event logging.
 * **Task Notes:** Add optional notes when stopping a task.
